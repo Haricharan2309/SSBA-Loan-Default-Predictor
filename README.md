@@ -37,10 +37,4 @@ The primary objective is to develop a model that can predict loan default based 
    - Key features influencing loan default included loan amount, term, and borrower’s industry.
    - The model identified predictors crucial for distinguishing between successful and defaulted loans, providing actionable insights for lending institutions.
 
-## Code Structure
-
-- `data_preprocessing.py`: Contains scripts for data cleaning and feature engineering.
-- `model_training.py`: Contains model training and evaluation code using Random Forest Classifier.
-- `utils.py`: Helper functions for data handling and visualization.
-- `README.md`: Project documentation.
 
